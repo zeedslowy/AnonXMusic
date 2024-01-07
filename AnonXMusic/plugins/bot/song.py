@@ -78,8 +78,3 @@ def song(client, message):
     except Exception as e:
         print(e)
 
-
-__mod_name__ = "Sᴏɴɢ"
-__help__ = """
-/song ᴛᴏ  ᴅᴏᴡɴʟᴏᴀᴅ   ᴀɴʏ  sᴏɴɢ 
-/music ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ"""
